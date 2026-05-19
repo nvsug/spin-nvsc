@@ -17,7 +17,7 @@ Key topics include, but are not limited to:
 - Forward-looking perspectives on Vera Rubin deployment and application readiness
 
 
-## Submission 
+## Submissions 
 
 TBD
 
