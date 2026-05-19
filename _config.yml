@@ -1,0 +1,67 @@
+# Site settings
+title: State of Practice in Deploying Supercomputers with NVIDIA Superchips Workshop
+tagline: State of Practice in Deploying Supercomputers with NVIDIA Superchips Workshop
+description: >
+  This workshop, organised by the NVIDIA Supercomputing Users Group (NVSUG), brings together HPC practitioners, 
+  system architects, and computational scientists deploying or planning to deploy systems based on NVIDIA Superchip architectures.
+
+url: "https://nvsug.github.io/spin-nvsc/"
+baseurl: ""   # leave blank "" if using a user site
+
+# Author / organisation
+organisation:
+  name: NVIDIA Supercomputing User Group
+
+# Contact
+email: bod@nvsug.org
+
+# Build settings
+markdown: kramdown
+theme: minima   # GitHub-supported default theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation (used by many themes)
+navigation:
+  - title: Home
+    url: /
+  - title: Topics
+    url: /topics/
+  - title: Submision
+    url: /submision/
+  - title: Committee
+    url: /committee/
+  - title: Agenda
+    url: /agenda/
+
+# Conference details (custom variables)
+#conference:
+#  name: Supercomputing Systems Conference 2026
+#  short_name: SSC2026
+#  location: Perth, Western Australia
+#  dates: 12–14 October 2026
+#  timezone: Australia/Perth
+#  host: Pawsey Supercomputing Research Centre
+#  sponsors:
+#    - NVIDIA
+#    - AMD
+#    - HPE
+
+# Social links (used by SEO and footer)
+#social_links:
+#  twitter: supercompconf
+#  github: your-org
+#  linkedin: company/pawsey-supercomputing-research-centre
+
+# SEO
+#lang: en-AU
+#timezone: Australia/Perth
+
+# Exclude files from build
+exclude:
+  - README.md
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
