@@ -42,6 +42,7 @@ SPIN-NVSC will use the ICPP Linklings for submissions. Please use this link (TOD
 ## Committee
 
 **Co-Chairs**
+
 | Individual          | Affiliation                            |
 |---------------------|----------------------------------------|
 | Sadaf R. Alam       | Bristol Centre for Supercomputing      |
@@ -50,6 +51,7 @@ SPIN-NVSC will use the ICPP Linklings for submissions. Please use this link (TOD
 
 
 **Program Committee**
+
 | Individual                 | Affiliation                            |
 |----------------------------|----------------------------------------|
 | John Cazes                 | TACC                                   |
