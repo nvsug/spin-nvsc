@@ -23,14 +23,14 @@ The timing of the schedule will be announced when the conference organizers prov
 - NVSUG Community Update
 - NVSUG Panel
 - Full Paper Talks (25 minutes)
-- SHort Paper Talks (15 minutes)
+- Short Paper Talks (15 minutes)
 
 ## Key Dates
 
-- Submission Deadline: June 30 (AoE)
-- Notification: July 23
-- Camera Ready Deadline: July 30 (AoE)
-- Workshop: September 28
+- Submission Deadline: June 30, 2026 (AoE)
+- Notification: July 23, 2026
+- Camera Ready Deadline: July 30, 2026 (AoE)
+- Workshop: September 28, 2026
 
 ## Submissions 
 
@@ -61,4 +61,8 @@ SPIN-NVSC will use the ICPP Linklings for submissions. Please use this link (TOD
 | Colin McMurtrie            | CSCS/ETH Zurich                        |
 | Jorge Luis Galvez Vallejo  | National Computational Infrastructure  |
 | Ugo Varetto                | Pawsey Supercomputing Research Centre  |
+| Wang Yi                    | NSCC                                   |
+| Todd Evans                 | NVIDIA                                 |
+| Simon See                  | NVIDIA                                 |
+| Cerlane Leong              | CSCS                                   |
 
