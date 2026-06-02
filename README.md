@@ -36,7 +36,9 @@ The timing of the schedule will be announced when the conference organizers prov
 
 SPIN-NVSC is accepting short papers (6 pages) and long papers (10 pages). The page limit includes all references and appendices. 
 
-SPIN-NVSC will use the ICPP Linklings for submissions. Please use this link (TODO: ADD LINK) to submit.
+SPIN-NVSC workshop uses the ICPP Linklings for submissions. 
+
+To submit, please use this link: https://ssl.linklings.net/conferences/icpp/ (and select NVSUG submission type)
 
 
 ## Committee
