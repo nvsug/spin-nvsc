@@ -38,7 +38,7 @@ SPIN-NVSC is accepting short papers (6 pages) and long papers (10 pages). The pa
 
 SPIN-NVSC workshop uses the ICPP Linklings for submissions. 
 
-To submit, please use this link: [https://ssl.linklings.net/conferences/icpp/](https://ssl.linklings.net/conferences/icpp/) (and select NVSUG submission type)
+To submit, please use this [link](https://ssl.linklings.net/conferences/icpp/) and select the NVSUG submission type. For other submission rules (e.g., blind review rules), please refer to the general [ICPP guidelines](https://icpp2026.github.io/call-for-papers/) that the workshop will use.
 
 
 ## Committee
