@@ -64,6 +64,7 @@ To submit, please use this [link](https://ssl.linklings.net/conferences/icpp/) a
 | Jorge Luis Galvez Vallejo  | National Computational Infrastructure  |
 | Ugo Varetto                | Pawsey Supercomputing Research Centre  |
 | Wang Yi                    | NSCC                                   |
+| Himeshi De Silva           | NSCC                                   |
 | Todd Evans                 | NVIDIA                                 |
 | Simon See                  | NVIDIA                                 |
 | Cerlane Leong              | CSCS                                   |
