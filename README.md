@@ -27,7 +27,7 @@ The timing of the schedule will be announced when the conference organizers prov
 
 ## Key Dates
 
-- Submission Deadline: June 30, 2026 (AoE)
+- Submission Deadline: ~~June 30, 2026~~ July 6, 2026 (AoE)
 - Notification: July 23, 2026
 - Camera Ready Deadline: July 30, 2026 (AoE)
 - Workshop: September 28, 2026
