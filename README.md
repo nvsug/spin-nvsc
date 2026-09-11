@@ -1,7 +1,7 @@
 
 ## About
 
-State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC) Workshop will be held during the 55th International Conference on Parallel Processing (ICPP'26), held in Singapore, September 28 - October 1, 2026. SPIN-NVSC is a full day workshop taking place on Monday, September 28.
+State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC) Workshop will be held during the [55th International Conference on Parallel Processing (ICPP'26)](https://icpp2026.github.io), held in Singapore, September 28 - October 1, 2026. SPIN-NVSC is a full day workshop taking place on Monday, September 28.
 
 HPC centres worldwide are navigating a significant architectural transition, as they seek to balance the demands of traditional simulation workloads with the rapid growth of AI and data-intensive applications. The emergence of unified CPU-GPU Superchip platforms — spanning the Grace-Grace, Grace Hopper, Grace Blackwell, and forthcoming Vera Rubin architectures — offers a coherent family of solutions targeting different points in this workload spectrum, from memory-bandwidth-bound simulation to large-scale AI inference and training. With early adopters now deploying these systems into production and Vera Rubin entering availability in the second half of 2026, the community is actively navigating opportunities and challenges spanning system design, software stack integration, workflow portability, application readiness, resiliency, resource management, and energy efficiency. This workshop, organised by the NVIDIA Supercomputing Users Group (NVSUG), brings together HPC practitioners, system architects, and computational scientists deploying or planning to deploy systems based on these architectures. Contributions from application developers and end users are strongly encouraged.
 
@@ -80,7 +80,7 @@ Monday, September 28, 2026
 | 10:30 – 11:00 | **Break** |
 | 11:00 – 12:30 | **Full Papers Session** Session Chair: Colin McMurtrie <br><br> *Portable and Resilient by Design: A Cloud-Style Stack for HPC and AI across NVIDIA Grace and Grace Hopper Superchips*, Sadaf R. Alam, Simon McIntosh-Smith <br><br> *Scaling the Extended OpenDwarfs: Evaluating Cross-Vendor CUDA Performance Portability with SCALE*, Beau Johnston, Chris Kitching, Matthew Ireland, Michael Søndergaard <br><br> *Characterizing Communication Compression on NVIDIA BlueField-3 DPU for Distributed Training*, Taiga Kobayashi, Tomohiro Ueno, Ryohei Kobayashi |
 | 12:30 – 13:30 | **Lunch** |
-| 13:30 – 14:30 | **Panel Discussion** *GPU Coding in the AI Era*, Moderator: Taisuke Boku, Panelists: Tomohiro Ueno, Toshihiro Hanawa, and TBD |
+| 13:30 – 14:30 | **Panel Discussion** *GPU Coding in the AI Era*, Moderator: Taisuke Boku, Panelists: Sadaf Alam, Tomohiro Ueno, Toshihiro Hanawa, and Wuchin Feng |
 | 14:30 – 15:00 | **Short Papers Session** Session Chair: Ryohei Kobayashi <br><br> *Beyond the HBM Wall: Coherent-Memory Oversubscription for AI Workloads on NVIDIA Grace Hopper*, Mohamed Abdelnaby, Wu-chun Feng <br><br> *Grace or Hopper? A Case Study of Wait-Free Concurrent Queues on the NVIDIA Grace Hopper GH200 Superchip*, Pratheek Prakash Shetty, Atharva Gondhalekar, Wu-chun Feng |
 | 15:00 – 15:30 | **Break** |
 | 15:30 – 16:20 | **Keynote** Session Chair: Ryohei Kobayashi <br><br> Speaker: *Title TBC*, Giuseppe Barca |
