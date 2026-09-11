@@ -69,3 +69,21 @@ To submit, please use this [link](https://ssl.linklings.net/conferences/icpp/) a
 | Simon See                  | NVIDIA                                 |
 | Cerlane Leong              | CSCS                                   |
 
+## Tentative Agenda
+Monday, September 28, 2026
+
+| Time | Talk |
+|------|-------------|
+| 09:00 – 09:10 | **Welcome** |
+| 09:10 – 10:00 | **Keynote** Session Chair: Taisuke Boku <br><br> *Surrounding Challenges of GPU-Centric Supercomputing: IO, Energy Efficiency, and Operation*, Toshihiro Hanawa |
+| 10:00 – 10:30 | **NVIDIA Supercomputing User Group (NVSUG) Community Update** Colin McMurtrie |
+| 10:30 – 11:00 | **Break** |
+| 11:00 – 12:30 | **Full Papers Session** Session Chair: Colin McMurtrie <br><br> *Portable and Resilient by Design: A Cloud-Style Stack for HPC and AI across NVIDIA Grace and Grace Hopper Superchips*, Sadaf R. Alam, Simon McIntosh-Smith <br><br> *Scaling the Extended OpenDwarfs: Evaluating Cross-Vendor CUDA Performance Portability with SCALE*, Beau Johnston, Chris Kitching, Matthew Ireland, Michael Søndergaard <br><br> *Characterizing Communication Compression on NVIDIA BlueField-3 DPU for Distributed Training*, Taiga Kobayashi, Tomohiro Ueno, Ryohei Kobayashi |
+| 12:30 – 13:30 | **Lunch** |
+| 13:30 – 14:30 | **Panel Discussion** *GPU Coding in the AI Era*, Moderator: Taisuke Boku, Panelists: Tomohiro Ueno, Toshihiro Hanawa, and TBD |
+| 14:30 – 15:00 | **Short Papers Session** Session Chair: Ryohei Kobayashi <br><br> *Beyond the HBM Wall: Coherent-Memory Oversubscription for AI Workloads on NVIDIA Grace Hopper*, Mohamed Abdelnaby, Wu-chun Feng <br><br> *Grace or Hopper? A Case Study of Wait-Free Concurrent Queues on the NVIDIA Grace Hopper GH200 Superchip*, Pratheek Prakash Shetty, Atharva Gondhalekar, Wu-chun Feng |
+| 15:00 – 15:30 | **Break** |
+| 15:30 – 16:20 | **Keynote** Session Chair: Ryohei Kobayashi <br><br> Speaker: *Title TBC*, Giuseppe Barca |
+| 16:20 – 16:50 | **Short Papers Session** Session Chair: Colin McMurtrie <br><br> *A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU*, Poorna Gunathilaka, Kirshanthan Sundararajah, Wu-chun Feng <br><br> *Adaptive GPU Sharing for Real-time LLM Serving with Best-effort Workloads*, Shuxin Li, Toshihiro Hanawa, Yohei Miki |
+| 16:50 – 17:00 | **Closing Remarks** |
+
