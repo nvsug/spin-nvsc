@@ -83,6 +83,6 @@ Monday, September 28, 2026
 | 13:30 – 14:40 | **Panel Discussion** *GPU Coding in the AI Era*, Moderator: Taisuke Boku, Panelists: Sadaf Alam, Tomohiro Ueno, Toshihiro Hanawa |
 | 14:40 – 15:00 | **Short Papers Session** Session Chair: Ryohei Kobayashi <br><br> *Beyond the HBM Wall: Coherent-Memory Oversubscription for AI Workloads on NVIDIA Grace Hopper*, Mohamed Abdelnaby, Wu-chun Feng |
 | 15:00 – 15:30 | **Break** |
-| 15:30 – 16:30 | **Short Papers Session** Session Chair: Colin McMurtrie <br><br> *Grace or Hopper? A Case Study of Wait-Free Concurrent Queues on the NVIDIA Grace Hopper GH200 Superchip*, Pratheek Prakash Shetty, Atharva Gondhalekar, Wu-chun Feng <br><br> *Adaptive GPU Sharing for Real-time LLM Serving with Best-effort Workloads*, Shuxin Li, Toshihiro Hanawa, Yohei Miki <br><br> *A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU*, Poorna Gunathilaka, Kirshanthan Sundararajah, Wu-chun Feng |
+| 15:30 – 16:30 | **Short Papers Session** Session Chair: Ryohei Kobayashi <br><br> *Grace or Hopper? A Case Study of Wait-Free Concurrent Queues on the NVIDIA Grace Hopper GH200 Superchip*, Pratheek Prakash Shetty, Atharva Gondhalekar, Wu-chun Feng <br><br> *Adaptive GPU Sharing for Real-time LLM Serving with Best-effort Workloads*, Shuxin Li, Toshihiro Hanawa, Yohei Miki <br><br> *A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU*, Poorna Gunathilaka, Kirshanthan Sundararajah, Wu-chun Feng |
 | 16:30 – 16:45 | **Closing Remarks** |
 
