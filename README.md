@@ -69,7 +69,7 @@ To submit, please use this [link](https://ssl.linklings.net/conferences/icpp/) a
 | Simon See                  | NVIDIA                                 |
 | Cerlane Leong              | CSCS                                   |
 
-## Tentative Agenda
+## Agenda
 Monday, September 28, 2026
 
 | Time | Talk |
@@ -86,3 +86,5 @@ Monday, September 28, 2026
 | 15:30 – 16:30 | **Short Papers Session** Session Chair: Ryohei Kobayashi <br><br> *Grace or Hopper? A Case Study of Wait-Free Concurrent Queues on the NVIDIA Grace Hopper GH200 Superchip*, Pratheek Prakash Shetty, Atharva Gondhalekar, Wu-chun Feng <br><br> *Adaptive GPU Sharing for Real-time LLM Serving with Best-effort Workloads*, Shuxin Li, Toshihiro Hanawa, Yohei Miki <br><br> *A Preliminary Study on Simultaneous Coscheduling for Discrete GPU vs. Fused GPU*, Poorna Gunathilaka, Kirshanthan Sundararajah, Wu-chun Feng |
 | 16:30 – 16:45 | **Closing Remarks** |
 
+## ICPP'26 Workshop Proceedings
+All papers presented during SPIN-NVSC workshop have been published within the ICPP'26 Workshop Proceedings available [here](https://dl.acm.org/doi/proceedings/10.1145/3816891). 
